@@ -1,0 +1,15 @@
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\bin\Debug\net6.0\case27.exe
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\bin\Debug\net6.0\case27.deps.json
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\bin\Debug\net6.0\case27.runtimeconfig.json
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\bin\Debug\net6.0\case27.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\bin\Debug\net6.0\case27.pdb
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\refint\case27.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.pdb
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\case27.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case27\obj\Debug\net6.0\ref\case27.dll

@@ -1,0 +1,15 @@
+C:\Users\Huawei\Desktop\c#\case2\bin\Debug\net6.0\case2.exe
+C:\Users\Huawei\Desktop\c#\case2\bin\Debug\net6.0\case2.deps.json
+C:\Users\Huawei\Desktop\c#\case2\bin\Debug\net6.0\case2.runtimeconfig.json
+C:\Users\Huawei\Desktop\c#\case2\bin\Debug\net6.0\case2.dll
+C:\Users\Huawei\Desktop\c#\case2\bin\Debug\net6.0\case2.pdb
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.dll
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\refint\case2.dll
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.pdb
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\case2.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\c#\case2\obj\Debug\net6.0\ref\case2.dll
