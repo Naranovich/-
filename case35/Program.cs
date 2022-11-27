@@ -10,7 +10,7 @@ for(int i=0;i<a.Length;i++)
 Console.Write($"{a[i],4}");
 
 int count=0;
-for(int i=0; i<a.Length;i++)
+for(int i=1; i<a.Length;i++)
 {
 if(i>10 && i<99)
 count++;
