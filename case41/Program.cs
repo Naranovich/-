@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите числа:");
+﻿//Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+Console.WriteLine ("Введите числа:");
 string numbers = Console.ReadLine();
 string [] newNumbers = new string [numbers.Length];
 int a = 0;
