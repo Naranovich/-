@@ -1,0 +1,15 @@
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\bin\Debug\net6.0\case41.exe
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\bin\Debug\net6.0\case41.deps.json
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\bin\Debug\net6.0\case41.runtimeconfig.json
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\bin\Debug\net6.0\case41.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\bin\Debug\net6.0\case41.pdb
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\refint\case41.dll
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.pdb
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\case41.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\ДЗ\c#\case41\obj\Debug\net6.0\ref\case41.dll
