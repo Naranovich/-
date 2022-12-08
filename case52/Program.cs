@@ -13,6 +13,7 @@ if (m < numbers.GetLength(0) && n < numbers.GetLength(1)) Console.WriteLine(numb
 else Console.WriteLine($"{m}{n} -> такого числа в массиве нет");
 
 PrintArray(numbers);
+//задаем рандомный массив
 void ArrayRandomNumbers(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -23,7 +24,7 @@ void ArrayRandomNumbers(int[,] array)
             }   
         }
 }
-
+//выводим массив
 void PrintArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
