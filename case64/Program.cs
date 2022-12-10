@@ -1,18 +1,13 @@
-﻿int n = InputNumbers("Введите n: ");
-int count = 2;
-PrintNumber(n, count);
-Console.Write(1);
-
-void PrintNumber(int n, int count)
+﻿Console.WriteLine("Введите число N");
+int nums = int.Parse(Console.ReadLine());
+Numbers(nums);
+int count = 0;
+void Numbers(int num)
 {
-  if (count > n) return;
-  PrintNumber(n, count + 1);
-  Console.Write(count + ", ");
-}
-
-int InputNumbers(string input)
-{
-  Console.Write(input);
-  int a = Convert.ToInt32(Console.ReadLine());
-  return a;
+    if(num == 0)
+    {
+       return;
+    }
+    Console.Write($"{num},");
+    Numbers(num -1);
 }
