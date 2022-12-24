@@ -1,14 +1,14 @@
 ﻿string[] arr1 = new string[4] {"2", "hello", "world", ":)"};
 string[] arr2 = new string[arr1.Length];
 int count = 0;
-void SecondArrayWithIF(string[] array1, string[] array2)
+void SecondArrayWithIF(string[] arr1, string[] arr2)
 {
     int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    for (int i = 0; i < arr1.Length; i++)
     {
-    if(array1[i].Length <= 3)
+    if(arr1[i].Length <= 3)
         {
-        array2[count] = array1[i];
+        arr2[count] = arr1[i];
         count++;
         }
     }
